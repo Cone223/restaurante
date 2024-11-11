@@ -35,18 +35,13 @@ const Banner = () => {
               {/* text content section */}
               <div className="flex flex-col justify-center gap-6 sm:pt-0">
                 <h1 className="text-3xl sm:text-4xl font-bold">
-                  Lorem, ipsum dolor.
+                  Nuestras recetas
                 </h1>
                 <p className="text-sm text-gray-500 tracking-wide leading-5">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Eaque reiciendis inventore iste ratione ex alias quis magni at
-                  optio
+                "¡Prueba nuestras recetas nuevas y deléitate con un toque de frescura en cada bocado! Este plato combina ingredientes frescos y sabores únicos, cuidadosamente seleccionados para brindarte una experiencia culinaria innovadora y deliciosa.!"
                   <br />
                   <br />
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Beatae ab sed, exercitationem minima aliquid eligendi
-                  distinctio? Fugit repudiandae numquam hic quo recusandae.
-                  Excepturi totam ad nam velit quasi quidem aspernatur.
+                  Perfecto para sorprender a tu paladar y añadir variedad a tu mesa. ¡No te lo pierdas!
                 </p>
                 <div className="flex gap-6">
                   <div>
@@ -61,7 +56,7 @@ const Banner = () => {
                 </div>
                 <div>
                   <button className="bg-gradient-to-r from-primary to-secondary text-white py-2 px-4 rounded-full shadow-xl hover:shadow-md">
-                    Order Now
+                    ordenar
                   </button>
                 </div>
               </div>
